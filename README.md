@@ -1,5 +1,22 @@
 # Chuan-Wei (Auberon) Kuo
 
+## Illustration of PhD candidate (ABD)
+> ### **I'm ready to work immediately**
+
+- This is **on-job PhD program** and **need the applicant has employee status** at the moment of application.
+
+- The vision of this project is mainly to **provide a platform for those employees who want to improve their abilities to systematically learn new knowledge and improve their technical abilities**, and eventually obtain a doctorate degree
+
+- Even so, the graduation requirements are exactly the same as those ordinary doctoral students, including qualification examinations, required courses, and requirements for publications.
+
+- After **completing the compulsory and qualifying exams on 2019**, I take few days for carefully consideration about the next step.
+
+- I decided to quit the job and focus on research to improve my research ability at same moment. After spending half a year handing over my job to a colleague, in 2020, I began to concentrate on research.
+
+- After two years of training, **I can now consistently produce research results**. In addition, **currently is only one new paper left to complete (it will take one month, which will be done before onboarding)**.
+
+- **After onboarding (if it happens), it's only taken me some free time to revise the paper that received review comments from a journal/conference. The advantage is that I can refine my understanding of SOTA AI/ML and get more practice, which helps with this job.**
+
 
 ## PhD:ITRI:Master Paper
 
