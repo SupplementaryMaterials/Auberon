@@ -11,7 +11,7 @@
 
 - After **completing the compulsory and qualifying exams in 2019**, I took a few days to consider the next step carefully. Hence, I decided to quit the job and focus on research to improve my research ability at the exact moment. 
 
-- After spending half a year handing over my career to a colleague between 2019 and 2020, I began concentrating on research.
+- After spending half a year handing over the responsible work (only needed to maintain it) to a colleague between 2019 and 2020, I began concentrating on research.
 
 - After two years of training, **I can now consistently produce research results**. In addition, **currently is only one new paper left to complete (it will take one month, which will be done before onboarding)**.
 
