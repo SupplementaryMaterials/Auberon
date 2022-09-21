@@ -16,7 +16,7 @@
 
 - After two years of training, **I can now consistently produce research results**. In addition, **currently is only one new paper left to complete (it will take one month, which will be done before onboarding)**.
 
-- **After onboarding (if it happens), it's only taken me some free time to revise the paper that received review comments from a journal/conference. The advantage is that I can refine my understanding of SOTA AI/ML and get more practice, which helps with this job.**
+- **After onboarding (if it happens), it's only taken me some free time to revise the paper that received review comments from a journal/conference. The advantage is that I can refine my understanding of SOTA AI/ML and get more practice, which helps with the job.**
 
 
 ## PhD:ITRI:Master Paper
