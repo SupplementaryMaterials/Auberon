@@ -1,8 +1,5 @@
 # Chuan-Wei (Auberon) Kuo
 
-## Update CV version to the latest version
-
-- Please review the latest version of the CV: **Chuan-Wei Kuo Personal CV (2022 new update).pdf**
 
 ## Illustration of PhD candidate (ABD)
 > ### **I'm ready to work immediately**
